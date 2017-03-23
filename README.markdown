@@ -5,9 +5,9 @@
 | Query					| Reply					|
 | ------------- | ------------- |
 |Raspunsuri generate momentan
-|['unde', 'ai', 'fost', 'plecat'] <> ['am', 'fost', 'la', 'scoala', 'de', 'corectie']
-|['salut'] <>  ['-', 'ce', 'faci']
-|['cum', 'te', 'cheama'] <> ['nu', 'te', 'pot', 'lasa', 'sa', 'pleci.']
+|['unde', 'ai', 'fost', 'plecat'] | ['am', 'fost', 'la', 'scoala', 'de', 'corectie']
+|['salut'] |  ['-', 'ce', 'faci']
+|['cum', 'te', 'cheama'] | ['nu', 'te', 'pot', 'lasa', 'sa', 'pleci.']
 
 
 ## Credits
